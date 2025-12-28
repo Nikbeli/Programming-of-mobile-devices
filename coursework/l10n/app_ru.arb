@@ -1,0 +1,12 @@
+{
+    "@@locale": "ru",
+
+    "cardLiked": "Конфета добавлена в понравившиеся :)",
+    "cardDisliked": "Конфета удалена из понравившегося :(",
+    "searchInputPlaceholder": "Поиск ..",
+
+    "titleCard" : "Название",
+    "descriptionCard" : "Описание",
+    "manufacturer" : "Производитель",
+    "price" : "Цена"
+}
