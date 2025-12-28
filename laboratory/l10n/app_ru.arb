@@ -1,0 +1,11 @@
+{
+    "@@locale": "ru",
+
+    "cardLiked": "Добавлено в понравившиеся :)",
+    "cardDisliked": "Удалено из понравившегося :(",
+    "searchInputPlaceholder": "Поиск ..",
+
+        "detailsTitle" : "Название:",
+        "detailsLocation": "Местоположение",
+        "detailsDescription": "Описание"
+}

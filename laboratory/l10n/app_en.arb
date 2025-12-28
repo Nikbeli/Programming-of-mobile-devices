@@ -1,0 +1,11 @@
+{
+    "@@locale": "en",
+
+    "cardLiked": "Card added to your favorite :)",
+    "cardDisliked": "Card deleted from favourite :(",
+    "searchInputPlaceholder": "Search ..",
+
+    "detailsTitle" : "Title:",
+    "detailsLocation": "Location",
+    "detailsDescription": "Description"
+}
