@@ -1,0 +1,3 @@
+output: lib/components/resources/resources.g.dart
+watch: false
+preview: false
